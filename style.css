@@ -1,0 +1,32 @@
+h2 {
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    
+}
+
+html {
+    background-color: black;
+    color: goldenrod;
+}
+
+img {
+border: solid;
+color:maroon;
+border-style: dotted;
+border-width: 20px;
+}
+
+li{
+color: gainsboro;
+
+}
+
+a{
+font-family:'Times New Roman', Times, serif;
+color:honeydew;
+letter-spacing: 5px;
+margin: 3em;
+}
